@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Algorithms**  
 - 📂 All of my projects are available at [github.com/Its-soul](https://github.com/Its-soul)  
-- 📫 How to reach me: your.email@example.com  
+- 📫 How to reach me: vibby005@gmail.com  
 <!--
 ---
 
@@ -24,8 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>  
+ 
 </p>  
 
 ---
