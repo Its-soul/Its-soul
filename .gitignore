@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+tmp/
+temp/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db

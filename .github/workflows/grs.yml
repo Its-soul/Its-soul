@@ -1,0 +1,45 @@
+name: Update README Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Daily at 3 AM UTC (8:30 AM IST)
+  workflow_dispatch:        # Manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        run: |
+          mkdir -p profile
+          curl -s "https://github-readme-stats.vercel.app/api?username=Its-soul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" -o profile/stats.svg
+
+      - name: Generate Top Languages Card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Its-soul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" -o profile/top-langs.svg
+
+      - name: Verify cards are valid SVG
+        run: |
+          if grep -q "Something went wrong" profile/stats.svg; then
+            echo "stats.svg contains an error!" && cat profile/stats.svg && exit 1
+          fi
+          if grep -q "Something went wrong" profile/top-langs.svg; then
+            echo "top-langs.svg contains an error!" && cat profile/top-langs.svg && exit 1
+          fi
+          echo "Both cards generated successfully"
+
+      - name: Commit and push updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --staged --quiet || git commit -m "chore: update README stats cards [skip ci]"
+          git push

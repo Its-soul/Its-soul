@@ -1,3 +1,201 @@
+<<<<<<< HEAD
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=135&section=header&text=Vaibhav%20Yadav&fontSize=44&fontColor=c0caf5&fontAlignY=62&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=84&descSize=15&descColor=7dcfff" />
+
+<div align="center">
+
+<h1>Hi, I'm Vaibhav Yadav 👋</h1>
+<h3>Backend Engineer | AI / ML Developer | India 🇮🇳</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+FastAPI;Always+Learning" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Its-soul&label=Profile+Views&color=7aa2f7&style=flat-square)](https://github.com/Its-soul)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Its-soul?label=Followers&color=7aa2f7&style=flat-square&logo=github)](https://github.com/Its-soul?tab=followers)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Its-soul?label=Total+Stars&color=bb9af7&style=flat-square&logo=github)](https://github.com/Its-soul)&nbsp;
+[![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-9ece6a?style=flat-square&logo=github)](https://github.com/Its-soul)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I build products powered by clean interfaces, reliable backends, and practical AI/ML workflows. My work sits at the intersection of backend engineering and applied intelligence: designing APIs, connecting data systems, and turning modern ML ideas into usable software.
+
+Right now, I am sharpening my skills in **advanced DSA**, **ML frameworks**, and **system design** while exploring how RAG pipelines, LLM-powered services, and autonomous AI agents can solve real developer and product problems.
+
+```typescript
+const vaibhav = {
+  name: "Vaibhav Yadav",
+  location: "India 🇮🇳",
+  role: "Backend Engineer | AI / ML Developer",
+
+  currentFocus: [
+    "RAG Pipelines",
+    "Autonomous AI Agents",
+    "LLM-powered backend systems",
+    "Deep Learning (Transformers, GANs, LLMs)",
+  ],
+
+  improving: ["Advanced DSA", "ML frameworks", "System design"],
+
+  openTo: ["AI/ML collaborations", "Open Source", "Backend projects"],
+};
+```
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,ts&theme=dark" alt="Python, Java, TypeScript" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&theme=dark" alt="FastAPI, Node.js, Flask" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="PostgreSQL, MongoDB, Redis" />
+<br/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/RAG-7AA2F7?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs-BB9AF7?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/AI%20Agents-9ECE6A?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=docker,git,gcp,vscode&theme=dark" alt="Docker, Git, GCP, VS Code" />
+
+</div>
+
+```ts
+const techStack = {
+  languages: [
+    "Python",
+    "Java",
+    "TypeScript"
+  ],
+
+  backend: [
+    "FastAPI",
+    "Node.js",
+    "Flask"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Qdrant"
+  ],
+
+  aiml: [
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "LangChain",
+    "Transformers",
+    "RAG",
+    "LLMs",
+    "AI Agents"
+  ],
+
+  tools: [
+    "Docker",
+    "Git",
+    "GCP",
+    "VS Code"
+  ]
+};
+```
+
+---
+
+## 📚 Learning Platforms
+
+<div align="center">
+
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3schools.com/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+
+</div>
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-its__soul-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/its_soul/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Its--soul-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Its-soul)
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/its_soul?theme=dark&font=JetBrains%20Mono&ext=activity&border=0" height="220" alt="LeetCode Stats" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Its-soul&theme=tokyonight&hide_border=true&border_radius=6" height="180" alt="GitHub Streak Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Its-soul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Profile Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-soul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="190" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-soul&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="94%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Its-soul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="94%" alt="GitHub Trophies" />
+
+</div>
+
+<details>
+<summary><b>📈 Detailed Profile Summary</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-soul&theme=tokyonight" width="94%" alt="GitHub Profile Summary" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-soul&theme=tokyonight" height="175" alt="Repos Per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Its-soul&theme=tokyonight" height="175" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-soul&theme=tokyonight" height="175" alt="GitHub Stats Summary" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Its-soul&theme=tokyonight&utcOffset=5.5" height="175" alt="Productive Time IST" />
+=======
 <h1 align="center">
   Hi , I'm Vaibhav Yadav
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -82,8 +280,65 @@
   <a href="https://github.com/Its-soul/data-analytics-project">
     <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=Its-soul&repo=data-analytics-project&theme=tokyonight" />
   </a>
+>>>>>>> b087ff70fc9bcfed86b724489f88e26c116cd26f
 
 </div>
 
 </details>
 
+<<<<<<< HEAD
+---
+
+## 🚀 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Its-soul/Noloop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=Noloop&theme=tokyonight&hide_border=true" alt="Noloop" />
+</a>
+<a href="https://github.com/Its-soul/InsightDocs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=InsightDocs&theme=tokyonight&hide_border=true" alt="InsightDocs" />
+</a>
+
+<a href="https://github.com/Its-soul/ZenFit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=ZenFit&theme=tokyonight&hide_border=true" alt="ZenFit" />
+</a>
+<a href="https://github.com/Its-soul/SpendSense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=SpendSense&theme=tokyonight&hide_border=true" alt="SpendSense" />
+</a>
+
+<a href="https://github.com/Its-soul/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
+</a>
+<a href="https://github.com/Its-soul/data-analytics-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=data-analytics-project&theme=tokyonight&hide_border=true" alt="data-analytics-project" />
+</a>
+
+<a href="https://github.com/Its-soul/tensorflow-google">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=tensorflow-google&theme=tokyonight&hide_border=true" alt="tensorflow-google" />
+</a>
+<a href="https://github.com/Its-soul/web-with-React">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=web-with-React&theme=tokyonight&hide_border=true" alt="web-with-React" />
+</a>
+
+<a href="https://github.com/Its-soul/android_dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-soul&repo=android_dev&theme=tokyonight&hide_border=true" alt="android_dev" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Its--soul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its-soul)
+[![LeetCode](https://img.shields.io/badge/LeetCode-its__soul-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/its_soul/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Its--soul-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Its-soul)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=100&section=footer&animation=fadeIn" />
+=======
+>>>>>>> b087ff70fc9bcfed86b724489f88e26c116cd26f
