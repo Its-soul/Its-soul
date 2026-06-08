@@ -1,20 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=135&section=header&text=Vaibhav%20Yadav&fontSize=44&fontColor=c0caf5&fontAlignY=62&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=84&descSize=15&descColor=7dcfff" />
-
 <div align="center">
 
-<h1>Hi, I'm Vaibhav Yadav 👋</h1>
-<h3>Backend Engineer | AI / ML Developer | India 🇮🇳</h3>
+<table>
+  <tr>
+    <td align="left" width="62%">
+      <h1>Vaibhav Yadav</h1>
+      <h3>Backend Engineer | AI / ML Developer | India 🇮🇳</h3>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=F7768E&vCenter=true&width=520&height=42&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+FastAPI;Always+Learning" alt="Typing profile lines" />
+      </p>
+    </td>
+    <td align="center" width="38%">
+      <img src="https://img.shields.io/badge/Backend-Engineer-16161E?style=for-the-badge&logo=fastapi&logoColor=9ECE6A&labelColor=2A2B3D" alt="Backend Engineer" />
+      <br/>
+      <img src="https://img.shields.io/badge/AI%20%2F%20ML-Developer-F7768E?style=for-the-badge&logo=openai&logoColor=16161E&labelColor=E0AF68" alt="AI ML Developer" />
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agents-9ECE6A?style=for-the-badge&logo=dependabot&logoColor=16161E&labelColor=2A2B3D" alt="RAG and AI Agents" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+AI+%2F+ML+Developer+%F0%9F%9A%80;RAG+Pipelines+%26+Autonomous+AI+Agents+%F0%9F%A4%96;Java+%7C+Python+%7C+FastAPI;Always+Learning" alt="Typing SVG" />
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Its-soul&label=Profile+Views&color=7aa2f7&style=flat-square)](https://github.com/Its-soul)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Its-soul?label=Followers&color=7aa2f7&style=flat-square&logo=github)](https://github.com/Its-soul?tab=followers)&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/Its-soul?label=Total+Stars&color=bb9af7&style=flat-square&logo=github)](https://github.com/Its-soul)&nbsp;
-[![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-9ece6a?style=flat-square&logo=github)](https://github.com/Its-soul)
+[![Profile Views](https://komarev.com/ghpvc/?username=Its-soul&label=Profile+Views&color=f7768e&style=flat-square)](https://github.com/Its-soul)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Its-soul?label=Followers&color=e0af68&style=flat-square&logo=github)](https://github.com/Its-soul?tab=followers)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Its-soul?label=Total+Stars&color=9ece6a&style=flat-square&logo=github)](https://github.com/Its-soul)&nbsp;
+[![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-f7768e?style=flat-square&logo=github)](https://github.com/Its-soul)
 
 </div>
+
 
 ---
 
@@ -304,5 +315,5 @@ const = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=100&section=footer&animation=fadeIn" />
+<p align="center"><b>Built with curiosity, clean APIs, and a Tokyo Night terminal open nearby.</b></p>
 =======
