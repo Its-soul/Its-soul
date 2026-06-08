@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=135&section=header&text=Vaibhav%20Yadav&fontSize=44&fontColor=c0caf5&fontAlignY=62&animation=fadeIn&desc=Backend%20Engineer%20%7C%20AI%20%2F%20ML%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=84&descSize=15&descColor=7dcfff" />
 
 <div align="center">
@@ -26,7 +25,7 @@ I build products powered by clean interfaces, reliable backends, and practical A
 Right now, I am sharpening my skills in **advanced DSA**, **ML frameworks**, and **system design** while exploring how RAG pipelines, LLM-powered services, and autonomous AI agents can solve real developer and product problems.
 
 ```typescript
-const vaibhav = {
+const = {
   name: "Vaibhav Yadav",
   location: "India 🇮🇳",
   role: "Backend Engineer | AI / ML Developer",
@@ -38,8 +37,15 @@ const vaibhav = {
     "Deep Learning (Transformers, GANs, LLMs)",
   ],
 
-  improving: ["Advanced DSA", "ML frameworks", "System design"],
+  techStack: {
+    languages : ["Python", "Java", "TypeScript"],
+    backend   : ["FastAPI", "Node.js", "Flask"],
+    databases : ["PostgreSQL", "MongoDB", "Redis", "Qdrant"],
+    aiml      : ["PyTorch", "LangChain", "Transformers", "AI Agents"],
+    tools     : ["Docker", "Git", "GCP", "VS Code"],
+  },
 
+  improving: ["Advanced DSA", "ML frameworks", "System design"],
   openTo: ["AI/ML collaborations", "Open Source", "Backend projects"],
 };
 ```
@@ -74,47 +80,6 @@ const vaibhav = {
 <img src="https://skillicons.dev/icons?i=docker,git,gcp,vscode&theme=dark" alt="Docker, Git, GCP, VS Code" />
 
 </div>
-
-```ts
-const techStack = {
-  languages: [
-    "Python",
-    "Java",
-    "TypeScript"
-  ],
-
-  backend: [
-    "FastAPI",
-    "Node.js",
-    "Flask"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "Redis",
-    "Qdrant"
-  ],
-
-  aiml: [
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LangChain",
-    "Transformers",
-    "RAG",
-    "LLMs",
-    "AI Agents"
-  ],
-
-  tools: [
-    "Docker",
-    "Git",
-    "GCP",
-    "VS Code"
-  ]
-};
-```
 
 ---
 
@@ -341,4 +306,3 @@ const techStack = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=100&section=footer&animation=fadeIn" />
 =======
->>>>>>> b087ff70fc9bcfed86b724489f88e26c116cd26f
